@@ -1,0 +1,8 @@
+[
+  { "name": "Laptop", "category": "Electronics", "inStock": true },
+  { "name": "Blender", "category": "Home Appliances", "inStock": false },
+  { "name": "Smartphone", "category": "Electronics", "inStock": true },
+  { "name": "Microwave", "category": "Home Appliances", "inStock": true },
+  { "name": "Chair", "category": "Furniture", "inStock": false },
+  { "name": "Desk", "category": "Furniture", "inStock": true }
+]
